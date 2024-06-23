@@ -4,3 +4,11 @@ body {
     font-family: 'Roboto', sans-serif;
     color: #fff;
 }
+.videosize {
+    position:absolute;
+    z-index:-1;
+    top:0;
+    left:0;
+    width:20%; 
+    height:10vh;
+}
