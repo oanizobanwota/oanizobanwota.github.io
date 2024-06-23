@@ -4,7 +4,7 @@ body {
     font-family: 'Roboto', sans-serif;
     color: #fff;
 }
-.videosize {
-    width:20%; 
-    height:10%;
+.video--size {
+    width:30%; 
+    height: 15px;;
 }
