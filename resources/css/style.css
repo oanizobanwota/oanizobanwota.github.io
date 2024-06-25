@@ -8,7 +8,7 @@ body {
 .top-right {
 
     position: absolute;    
-    top: 100;    
-    right: 100;    
+    top: 80;    
+    left: 100;    
     padding: 10px;
 }
