@@ -5,3 +5,8 @@ body {
     color: #fff;
 }
 
+script {
+    display: none;
+    align-self: right;
+
+}
